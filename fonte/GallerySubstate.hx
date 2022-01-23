@@ -221,6 +221,7 @@ class GallerySubstate extends MusicBeatSubstate
 		"Bobal and Bofo 40 DTIYS",
 		"Bobot 40 DTIYS",
 		"Fun is Infinite",
+                "Meet the Optimizer, Rafaplayer584"
 	];
 	var officialCaptionColors:Array<FlxColor> = [];
 	
